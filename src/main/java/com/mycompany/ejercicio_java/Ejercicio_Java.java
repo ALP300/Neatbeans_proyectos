@@ -11,6 +11,6 @@ package com.mycompany.ejercicio_java;
 public class Ejercicio_Java {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! ");
     }
 }
